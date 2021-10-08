@@ -1,0 +1,5 @@
+id,title,tipoEquipamiento,titularidadPublica,streetAddress,postalCode,portalId,geometry,latitud,longitud,creationDate,lastUpdated
+29251,Electrolinera Plaza de Toros (motos),electrolineras,No,"C/ Ramón Pignatelli, 102",50004,25938,"{'type': 'Point', 'coordinates': [675767.6800016467, 4613793.169997844]}",41.654654065695894,-0.8903855294865146,2020-05-27T02:00:00,2021-03-23T08:36:49
+29248,Electrolinera Doctor Fleming,electrolineras,No,C/ Doctor Fleming Nº 1,50004,925,"{'type': 'Point', 'coordinates': [675818.3800016491, 4613412.499997841]}",41.651216451448036,-0.889888969686842,2020-05-26T02:00:00,2021-03-23T08:36:49
+29252,Electrolinera P.J. Soler,electrolineras,No,"C/ Pedro Joaquín Soler, 20",50001,14367,"{'type': 'Point', 'coordinates': [676893.4600017032, 4613528.839997761]}",41.652025793747946,-0.8769523860440905,2020-05-27T02:00:00,2021-03-23T08:36:49
+29253,Electrolinera Ramón y Cajal,electrolineras,No,"C/ Ramón y Cajal, 50",50004,22732,"{'type': 'Point', 'coordinates': [676099.7200016633, 4613587.059997817]}",41.65272557390989,-0.8864611509628293,2020-05-27T02:00:00,2021-03-23T08:36:49
