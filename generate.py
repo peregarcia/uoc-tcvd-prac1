@@ -15,7 +15,7 @@ if httpRequest.call().errorFound():
 respData = httpRequest.getResponseData()
 
 # Inicializar fichero
-ficheroCSV = csv.writer(open(DATASET_PARSED_FILE, "w+", encoding=httpRequest.getEncoding()))
+ficheroCSV = csv.writer(open(DATASET_PARSED_FILE, "w+", encoding=httpRequest.getEncoding(), newline=''))
 
 # Cabecera para entender el dataset y escritura
 ficheroCSV.writerow(["id", "title", "tipoEquipamiento", "titularidadPublica", "streetAddress", "postalCode", "portalId", "geometry", "latitud", "longitud", "creationDate", "lastUpdated"])
